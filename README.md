@@ -1,6 +1,6 @@
-# PX4 Parameter Diff
+# PX4 Parameter Differ
 
-This script compares two PX4 `.params` files and exports the differences to a CSV file.
+A differ script compares two PX4 `.params` files and exports the differences to a CSV file.
 
 ## Usage
 
@@ -28,28 +28,6 @@ python px4_params_diff.py config1.params config2.params diff_output.csv --common
 ## License
 
 This project is licensed under the MIT License.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
